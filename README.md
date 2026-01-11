@@ -89,8 +89,6 @@ http://localhost:5173
 
 ## Screenshots
 
-## Screenshots
-
 ### Login
 ![Login Screen](screenshot/login.png)
 
